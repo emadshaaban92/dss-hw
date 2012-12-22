@@ -44,10 +44,10 @@ ex1.csv , ex2.csv and ex3.csv
 These files contain some data to validate the script ... enjoy editing them ;) 
 
 # USAGE
-simply excute solver.py with one argument (filename which contains your data)
+simply excute solver.py with two arguments filename (which contains your data) and payoff (profit or cost)
 
 ###### Example 
-    python solver.py ex1.csv
+    python solver.py ex1.csv profit
     
 
 The script is interactive, you will be asked to choose your prefered (Optimistic, Pessimistic or Minimax Regret)
